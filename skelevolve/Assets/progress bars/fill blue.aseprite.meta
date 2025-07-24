@@ -7,7 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  script: {instanceID: 0}
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 28
       height: 1
-    spriteID: 7a7a435a1d9214e4ab6532143b12f8c1
+    spriteID: e3aefd5df7e8e0444af2befcf276f369
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -157,10 +157,22 @@ ScriptedImporter:
         y: 0
         width: 28
         height: 1
-      spriteId: 7a7a435a1d9214e4ab6532143b12f8c1
+      spriteId: e3aefd5df7e8e0444af2befcf276f369
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

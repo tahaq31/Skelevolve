@@ -1,14 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 [ExecuteInEditMode()]
 public class progress_bar : MonoBehaviour
 {
     public int maximum;
     public int current;
-    public image mask;
-
-
+    public Image mask;
 
     // Start is called before the first frame update
     void Start()
@@ -19,16 +19,11 @@ public class progress_bar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        GetCurrentFill();
     }
 
     void GetCurrentFill()
     {
-        if (maximum == 0)
-        {
-            mask.fillAmount = 0;
-        }
-        else
         {
             mask.fillAmount = (float)current / (float)maximum;
             mask.fillAmount = fillAmount;
