@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {instanceID: 0}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -144,7 +145,12 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 690367819
+    uuid:
+      value0: 650852407
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 650852407
     name: progress bars
     layerFlags: 0
     layerType: 0
@@ -152,6 +158,7 @@ ScriptedImporter:
     cells:
     - name: progress bars
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -177,3 +184,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 32, y: 16}
+  previousTextureSize: {x: 64, y: 32}

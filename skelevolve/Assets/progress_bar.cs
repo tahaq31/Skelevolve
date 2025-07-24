@@ -6,9 +6,12 @@ using UnityEngine.UI;
 [ExecuteInEditMode()]
 public class progress_bar : MonoBehaviour
 {
-    public int maximum;
-    public int current;
-    public Image mask;
+    [SerializeField]
+    private int maximum;
+    [SerializeField]
+    private int current;
+    [SerializeField]
+    private Image mask;
 
     // Start is called before the first frame update
     void Start()
