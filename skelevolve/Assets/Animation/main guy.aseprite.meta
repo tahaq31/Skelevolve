@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -524,166 +525,191 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -867926984
+    uuid:
+      value0: 1079669528
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1079669528
     name: main guy
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: main guy_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 17
         width: 52
         height: 168
       spriteId: 984c8854ddc215141a73eeb741dbdaeb
-    - name: main guy_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 5
         y: 12
         width: 68
         height: 168
       spriteId: 63eebb8a796f4ec49aca1184374d990c
-    - name: main guy_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 2
         width: 56
         height: 168
       spriteId: 9fcfc85c2c29bab4cb52573b97b5e978
-    - name: main guy_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 6
         width: 68
         height: 168
       spriteId: faf3e03d4b194de46b546bdf56c0ea7f
-    - name: main guy_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 11
         width: 68
         height: 164
       spriteId: a03bd851420b7324489adbbe961b0372
-    - name: main guy_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 16
         y: 11
         width: 52
         height: 168
       spriteId: 960f0dbe4379d3e47b8c1e8a81d0025b
-    - name: main guy_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 11
         y: 15
         width: 60
         height: 164
       spriteId: 6e850367e99c4a749b7cdc364d66c579
-    - name: main guy_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 14
         width: 52
         height: 168
       spriteId: d3591e8ef62784f4cad1087d7df4bf0c
-    - name: main guy_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 9
         width: 56
         height: 167
       spriteId: 15eab8da18344194289113402ab6d17f
-    - name: main guy_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 10
         width: 68
         height: 168
       spriteId: 1a0cf0a00c8f2ad42a214b01f1f01f47
-    - name: main guy_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 16
         y: 12
         width: 56
         height: 167
       spriteId: e333b39a26d1ebe439a3ff03574681a4
-    - name: main guy_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 14
         width: 68
         height: 168
       spriteId: 3560dc667bdb468499af88e412c56983
-    - name: main guy_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 10
         y: 14
         width: 68
         height: 164
       spriteId: dd697e320a494ed468dee54524603660
-    - name: main guy_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 12
         width: 52
         height: 168
       spriteId: 76720796328558647934bd8ce9877a1b
-    - name: main guy_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 8
         y: 15
         width: 64
         height: 164
       spriteId: a36a5a40ae66d924992891cc31cbbeb1
-    - name: main guy_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 20
         y: 12
         width: 52
         height: 168
       spriteId: 26fce05ad70da6d418b5d59276890e3e
-    - name: main guy_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 17
         width: 52
         height: 168
       spriteId: 9d2e646f56fa22a408604f8bbcb3c1be
-    - name: main guy_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 16
         y: 11
         width: 52
         height: 168
       spriteId: be9d5e3bd9bb20d469c0d00ee90c17de
-    - name: main guy_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 9
         y: 9
         width: 56
         height: 167
       spriteId: a57da87f4cdab3048a83031267ae293e
-    - name: main guy_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 14
         y: 12
@@ -757,3 +783,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 87, y: 194}
+  previousTextureSize: {x: 512, y: 1024}
