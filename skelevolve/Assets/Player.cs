@@ -30,10 +30,10 @@ public class Player : MonoBehaviour
         playerMovement = playerMovement.normalized;
         rb.MovePosition(rb.position + playerMovement * movespeed * Time.fixedDeltaTime);
 
-        an.SetBool("Forward", Input.GetKey(KeyCode.W));
-        an.SetBool("Left", Input.GetKey(KeyCode.A));
-        an.SetBool("Right", Input.GetKey(KeyCode.D));
-        an.SetBool("Backward", Input.GetKey(KeyCode.S));
+        an.SetBool("Forward", Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow));
+        an.SetBool("Left", Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow));
+        an.SetBool("Right", Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow));
+        an.SetBool("Backward", Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow));
         an.SetBool("Movement", playerMovement != Vector2.zero);
 
     }
