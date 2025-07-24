@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 3ea27be7c7fad144ba20deffcb6e645c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 1
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638888978361528805
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_0
+=======
+  - name: main guy_Frame_0
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.6634615, y: -0.10119048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 354
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 6099936ea4aef1e48a229f09f32cd58a
+=======
+    spriteID: 984c8854ddc215141a73eeb741dbdaeb
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 354}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_1
+=======
+  - name: main guy_Frame_1
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.5661765, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 68
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: b2e1c73476dc1654a8cbe32a7f31f1a7
+=======
+    spriteID: 63eebb8a796f4ec49aca1184374d990c
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_2
+=======
+  - name: main guy_Frame_2
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.5446429, y: -0.011904761}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 520
+      width: 56
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 7c982144afc18994685e4abc11e20a90
+=======
+    spriteID: 9fcfc85c2c29bab4cb52573b97b5e978
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 520}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_3
+=======
+  - name: main guy_Frame_3
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.5514706, y: -0.035714287}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 68
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 36cd17c9cd9c63a47bac511675715394
+=======
+    spriteID: faf3e03d4b194de46b546bdf56c0ea7f
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_4
+=======
+  - name: main guy_Frame_4
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.50735295, y: -0.06707317}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 708
+      width: 68
+      height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 056679015c555174c915961ea64c8730
+=======
+    spriteID: a03bd851420b7324489adbbe961b0372
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 708}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_5
+=======
+  - name: main guy_Frame_5
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.52884614, y: -0.065476194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 530
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 2b9f870bb9e1b7c488aa711567865d81
+=======
+    spriteID: 960f0dbe4379d3e47b8c1e8a81d0025b
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 530}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_6
+=======
+  - name: main guy_Frame_6
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.5416667, y: -0.09146341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 348
+      width: 60
+      height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: f00a24f4014474e45bb11fc9780e5d28
+=======
+    spriteID: 6e850367e99c4a749b7cdc364d66c579
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 348}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_7
+=======
+  - name: main guy_Frame_7
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.56730765, y: -0.08333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 706
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: b4926048a7d08334e9a13b8ee46d5c8f
+=======
+    spriteID: d3591e8ef62784f4cad1087d7df4bf0c
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 706}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_8
+=======
+  - name: main guy_Frame_8
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.61607146, y: -0.053892214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 696
+      width: 56
+      height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 744b8bdbce7267748a7b45043a4a4189
+=======
+    spriteID: 15eab8da18344194289113402ab6d17f
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 696}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_9
+=======
+  - name: main guy_Frame_9
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.50735295, y: -0.05952381}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 356
+      width: 68
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 91ef7095ed191934cb941555ce97961c
+=======
+    spriteID: 1a0cf0a00c8f2ad42a214b01f1f01f47
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 356}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_10
+=======
+  - name: main guy_Frame_10
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.49107143, y: -0.07185629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 56
+      height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 10d6cd1d0fb88de4994c68ef6c813b76
+=======
+    spriteID: e333b39a26d1ebe439a3ff03574681a4
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 4}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_11
+=======
+  - name: main guy_Frame_11
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.49264708, y: -0.08333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 68
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 003b980e1e54f59498a7ef1ee994c8e1
+=======
+    spriteID: 3560dc667bdb468499af88e412c56983
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_12
+=======
+  - name: main guy_Frame_12
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.49264708, y: -0.08536585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 4
+      width: 68
+      height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: b96df02d3653bba4aa57a4af51e7ad4f
+=======
+    spriteID: dd697e320a494ed468dee54524603660
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 4}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_13
+=======
+  - name: main guy_Frame_13
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.56730765, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 4
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 44f0b8edc926e2149b9a138fa6fcfc85
+=======
+    spriteID: 76720796328558647934bd8ce9877a1b
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 4}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_14
+=======
+  - name: main guy_Frame_14
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.5546875, y: -0.09146341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 64
+      height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: bf7d06ef49f869542a7d4a35bb7f99f0
+=======
+    spriteID: a36a5a40ae66d924992891cc31cbbeb1
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 176}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_15
+=======
+  - name: main guy_Frame_15
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.4519231, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 180
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 1bb43d270a13a7f46babe7bc842009cb
+=======
+    spriteID: 26fce05ad70da6d418b5d59276890e3e
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 180}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_16
+=======
+  - name: main guy_Frame_16
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.6634615, y: -0.10119048}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 356
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 8c9583d72e3ac534c8d224e3e0217b5f
+=======
+    spriteID: 9d2e646f56fa22a408604f8bbcb3c1be
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 356}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_17
+=======
+  - name: main guy_Frame_17
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.52884614, y: -0.065476194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 532
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: c1992f325aa2f8a469688fafaecb9b7e
+=======
+    spriteID: be9d5e3bd9bb20d469c0d00ee90c17de
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 532}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_18
+=======
+  - name: main guy_Frame_18
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.61607146, y: -0.053892214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 179
+      width: 56
+      height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: 75abf1884ff79f34cacfde8d0c943a70
+=======
+    spriteID: a57da87f4cdab3048a83031267ae293e
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 179}
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+  - name: main guy 1_Frame_19
+=======
+  - name: main guy_Frame_19
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    originalName: 
+    pivot: {x: 0.56730765, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 220
+      y: 708
+      width: 52
+      height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    spriteID: d528effe9715fdc44b9de1524fef594f
+=======
+    spriteID: eb0d91e9bed3e7c4d9679c83cb4ef6c6
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 220, y: 708}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+    guid: 1009170249
+    name: main guy 1
+=======
+    uuid:
+      value0: 1079669528
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1079669528
+    name: main guy
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: main guy 1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 17
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 6099936ea4aef1e48a229f09f32cd58a
+    - name: main guy 1_Frame_1
+=======
+      spriteId: 984c8854ddc215141a73eeb741dbdaeb
+    - name: Frame_1
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 1
+      cellRect:
+        x: 5
+        y: 12
+        width: 68
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: b2e1c73476dc1654a8cbe32a7f31f1a7
+    - name: main guy 1_Frame_2
+=======
+      spriteId: 63eebb8a796f4ec49aca1184374d990c
+    - name: Frame_2
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 2
+      cellRect:
+        x: 13
+        y: 2
+        width: 56
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 7c982144afc18994685e4abc11e20a90
+    - name: main guy 1_Frame_3
+=======
+      spriteId: 9fcfc85c2c29bab4cb52573b97b5e978
+    - name: Frame_3
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 6
+        width: 68
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 36cd17c9cd9c63a47bac511675715394
+    - name: main guy 1_Frame_4
+=======
+      spriteId: faf3e03d4b194de46b546bdf56c0ea7f
+    - name: Frame_4
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 11
+        width: 68
+        height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 056679015c555174c915961ea64c8730
+    - name: main guy 1_Frame_5
+=======
+      spriteId: a03bd851420b7324489adbbe961b0372
+    - name: Frame_5
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 11
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 2b9f870bb9e1b7c488aa711567865d81
+    - name: main guy 1_Frame_6
+=======
+      spriteId: 960f0dbe4379d3e47b8c1e8a81d0025b
+    - name: Frame_6
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: 15
+        width: 60
+        height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: f00a24f4014474e45bb11fc9780e5d28
+    - name: main guy 1_Frame_7
+=======
+      spriteId: 6e850367e99c4a749b7cdc364d66c579
+    - name: Frame_7
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 7
+      cellRect:
+        x: 14
+        y: 14
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: b4926048a7d08334e9a13b8ee46d5c8f
+    - name: main guy 1_Frame_8
+=======
+      spriteId: d3591e8ef62784f4cad1087d7df4bf0c
+    - name: Frame_8
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 9
+        width: 56
+        height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 744b8bdbce7267748a7b45043a4a4189
+    - name: main guy 1_Frame_9
+=======
+      spriteId: 15eab8da18344194289113402ab6d17f
+    - name: Frame_9
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 10
+        width: 68
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 91ef7095ed191934cb941555ce97961c
+    - name: main guy 1_Frame_10
+=======
+      spriteId: 1a0cf0a00c8f2ad42a214b01f1f01f47
+    - name: Frame_10
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 10
+      cellRect:
+        x: 16
+        y: 12
+        width: 56
+        height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 10d6cd1d0fb88de4994c68ef6c813b76
+    - name: main guy 1_Frame_11
+=======
+      spriteId: e333b39a26d1ebe439a3ff03574681a4
+    - name: Frame_11
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 14
+        width: 68
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 003b980e1e54f59498a7ef1ee994c8e1
+    - name: main guy 1_Frame_12
+=======
+      spriteId: 3560dc667bdb468499af88e412c56983
+    - name: Frame_12
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 14
+        width: 68
+        height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: b96df02d3653bba4aa57a4af51e7ad4f
+    - name: main guy 1_Frame_13
+=======
+      spriteId: dd697e320a494ed468dee54524603660
+    - name: Frame_13
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 13
+      cellRect:
+        x: 14
+        y: 12
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 44f0b8edc926e2149b9a138fa6fcfc85
+    - name: main guy 1_Frame_14
+=======
+      spriteId: 76720796328558647934bd8ce9877a1b
+    - name: Frame_14
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 14
+      cellRect:
+        x: 8
+        y: 15
+        width: 64
+        height: 164
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: bf7d06ef49f869542a7d4a35bb7f99f0
+    - name: main guy 1_Frame_15
+=======
+      spriteId: a36a5a40ae66d924992891cc31cbbeb1
+    - name: Frame_15
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 15
+      cellRect:
+        x: 20
+        y: 12
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 1bb43d270a13a7f46babe7bc842009cb
+    - name: main guy 1_Frame_16
+=======
+      spriteId: 26fce05ad70da6d418b5d59276890e3e
+    - name: Frame_16
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 17
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 8c9583d72e3ac534c8d224e3e0217b5f
+    - name: main guy 1_Frame_17
+=======
+      spriteId: 9d2e646f56fa22a408604f8bbcb3c1be
+    - name: Frame_17
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 17
+      cellRect:
+        x: 16
+        y: 11
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: c1992f325aa2f8a469688fafaecb9b7e
+    - name: main guy 1_Frame_18
+=======
+      spriteId: be9d5e3bd9bb20d469c0d00ee90c17de
+    - name: Frame_18
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 18
+      cellRect:
+        x: 9
+        y: 9
+        width: 56
+        height: 167
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: 75abf1884ff79f34cacfde8d0c943a70
+    - name: main guy 1_Frame_19
+=======
+      spriteId: a57da87f4cdab3048a83031267ae293e
+    - name: Frame_19
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+      frameIndex: 19
+      cellRect:
+        x: 14
+        y: 12
+        width: 52
+        height: 168
+<<<<<<< HEAD:skelevolve/Assets/main guy 1.aseprite.meta
+      spriteId: d528effe9715fdc44b9de1524fef594f
+=======
+      spriteId: eb0d91e9bed3e7c4d9679c83cb4ef6c6
+>>>>>>> Character:skelevolve/Assets/Animation/main guy.aseprite.meta
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 87, y: 194}
